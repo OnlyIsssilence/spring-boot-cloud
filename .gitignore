@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/spring-boot-cloud.iml
+/spring-boot-eureka/spring-boot-eureka.iml
+/spring-boot-common/spring-boot-common.iml
+/spring-boot-common/target/
+/spring-boot-eureka/target/
+/spring-boot-ribbon/spring-boot-ribbon.iml
+/spring-boot-ribbon/target/
+/.idea/
